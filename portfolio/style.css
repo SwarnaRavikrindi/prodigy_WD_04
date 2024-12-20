@@ -1,0 +1,21 @@
+/* style.css */
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+
+/* Basic styling – you'll want to customize this extensively */
+.hero {
+    background-color: #f0f0f0;
+    padding: 100px 0;
+    text-align: center;
+}
+.profile-image{
+    border-radius: 50%; /* Make the image circular */
+    max-width: 200px; /* Set a maximum width */
+    height: auto;
+    margin-bottom: 20px;
+}
+/* Add more styles for other sections, navigation, etc. */
